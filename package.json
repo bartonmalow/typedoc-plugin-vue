@@ -12,12 +12,12 @@
         "doc": "typedoc --plugin ./dist/plugin.js"
     },
     "devDependencies": {
-        "dprint": "^0.49.0",
+        "dprint": "^0.49.1",
         "outdent": "^0.8.0",
-        "pinia": "^3.0.1",
-        "typedoc": "^0.28.0-beta.1",
-        "typescript": "^5.8.2",
-        "vitest": "^3.0.7",
+        "pinia": "^3.0.2",
+        "typedoc": "^0.28.4",
+        "typescript": "^5.8.3",
+        "vitest": "^3.1.3",
         "vue": "^3.5.13"
     },
     "keywords": [
